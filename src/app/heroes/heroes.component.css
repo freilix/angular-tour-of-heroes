@@ -1,11 +1,4 @@
 /* HeroesComponent's private CSS styles */
-
-
-$primary: #11998e;
-$secondary: #38ef7d;
-$white: #fff;
-$gray: #9b9b9b;
-
 .heroes {
   margin: 0 0 2em 0;
   list-style-type: none;
